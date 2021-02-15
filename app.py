@@ -6,7 +6,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator #Keras datas
 from numpy import expand_dims
 from tensorflow.keras.preprocessing.image import load_img
 from tensorflow.keras.preprocessing.image import img_to_array
-import cv2
+
+
 from PIL import Image
 
 
